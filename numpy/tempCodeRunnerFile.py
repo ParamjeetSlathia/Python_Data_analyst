@@ -1,0 +1,1 @@
+print(np.dot(a,b))
